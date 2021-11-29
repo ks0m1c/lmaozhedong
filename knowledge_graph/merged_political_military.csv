@@ -1,0 +1,831 @@
+item,itemLabel,politicalPartyLabel,positionHeldLabel,positionEnd,positionStart,militaryRankLabel,militaryRankStart,ismilitaryRankPIT,militaryEnd,nextHighestMilitaryRankLabel,nextLowestMilitaryRankLabel
+http://www.wikidata.org/entity/Q16988,Liu Shaoqi,Communist Party of China,President of the People's Republic of China,1968-10-31T00:00:00Z,1959-04-27T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q16988,Liu Shaoqi,Communist Party of China,Chairman of the Standing Committee of the National People's Congress,1959-04-18T00:00:00Z,1954-09-27T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q17132,Soong Ching-ling,Communist Party of China,Vice President of the People's Republic of China,1975-01-17T00:00:00Z,1959-04-27T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q22513,Zhu De,Communist Party of China,Vice President of the People's Republic of China,1959-04-27T00:00:00Z,1954-09-27T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q22513,Zhu De,Communist Party of China,Vice Chairman of the Communist Party of China,1966-08-01T00:00:00Z,1956-09-28T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q22513,Zhu De,Communist Party of China,Secretary of the Central Commission for Discipline Inspection,1955-03-01T00:00:00Z,1949-11-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q22513,Zhu De,Communist Party of China,Chairman of the Standing Committee of the National People's Congress,1976-07-06T00:00:00Z,1959-04-28T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q17410,Zhou Enlai,Communist Party of China,Premier of the State Council of the People's Republic of China,1976-01-08T00:00:00Z,1954-09-27T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q17410,Zhou Enlai,Communist Party of China,member of the Politburo Standing Committee of the Communist Party of China,1976-01-08T00:00:00Z,1956-09-28T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q17410,Zhou Enlai,Communist Party of China,member of the National People's Congress,1976-01-08T00:00:00Z,1954-09-15T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q17410,Zhou Enlai,Communist Party of China,Vice Chairman of the Communist Party of China,1966-08-01T00:00:00Z,1956-09-28T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q17410,Zhou Enlai,Communist Party of China,Foreign Minister of the People's Republic of China,1958-02-11T00:00:00Z,1949-10-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q17410,Zhou Enlai,Communist Party of China,Chairman of the National Committee of the Chinese People's Political Consultative Conference,1976-01-08T00:00:00Z,1954-12-25T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q5816,Mao Zedong,Communist Party of China,Chairman of the Central Military Commission of the Chinese Communist Party,1976-09-09T00:00:00Z,1945-08-23T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q5816,Mao Zedong,Communist Party of China,Chairman of the National Committee of the Chinese People's Political Consultative Conference,1954-09-27T00:00:00Z,1949-09-21T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q5816,Mao Zedong,Communist Party of China,President of the People's Republic of China,1959-04-27T00:00:00Z,1954-09-27T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q5816,Mao Zedong,Communist Party of China,Chairman of the Chinese Communist Party,1976-09-09T00:00:00Z,1945-06-19T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q188408,Chen Yi,Communist Party of China,Foreign Minister of the People's Republic of China,1972-01-01T00:00:00Z,1958-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q188408,Chen Yi,Communist Party of China,mayor of Shanghai,1958-01-01T00:00:00Z,1949-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q188408,Chen Yi,Communist Party of China,Secretary of the CPC Shanghai Committee,1954-01-01T00:00:00Z,1950-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q162814,Xie Fuzhi,Communist Party of China,Secretary of the CPC Yunnan Committee,1959-01-01T00:00:00Z,1952-01-01T00:00:00Z,Shang Jiang,1955-09-27T00:00:00Z,0.0,1955-09-27T00:00:00Z,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q162814,Xie Fuzhi,Communist Party of China,Secretary of the CPC Yunnan Committee,1959-01-01T00:00:00Z,1952-01-01T00:00:00Z,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q162814,Xie Fuzhi,Communist Party of China,Minister of Public Security of the People's Republic of China,1972-01-01T00:00:00Z,1959-01-01T00:00:00Z,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q41117,Kim Il-sung,Communist Party of China,President of North Korea,1994-07-08T00:00:00Z,1948-09-09T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q41117,Kim Il-sung,Communist Party of China,General Secretary of the Workers' Party of Korea,1994-07-08T00:00:00Z,1949-06-30T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q41117,Kim Il-sung,Workers' Party of Korea,President of North Korea,1994-07-08T00:00:00Z,1948-09-09T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q41117,Kim Il-sung,Workers' Party of Korea,General Secretary of the Workers' Party of Korea,1994-07-08T00:00:00Z,1949-06-30T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q560641,Ji Pengfei,Communist Party of China,ambassador,1955-01-01T00:00:00Z,1950-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q557233,Chen Yun,Communist Party of China,Vice Premier of the State Council of the People's Republic of China,1965-01-01T00:00:00Z,1954-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q557233,Chen Yun,Communist Party of China,Vice Chairman of the Communist Party of China,1966-08-01T00:00:00Z,1956-09-28T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q697686,Chen Geng,Communist Party of China,president,1961-03-01T00:00:00Z,1952-07-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q697686,Chen Geng,Communist Party of China,Deputy Minister,1961-03-16T00:00:00Z,1959-09-16T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q697715,Chen Wangdao,Communist Party of China,president,1978-01-01T00:00:00Z,1949-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q315475,Lin Biao,Communist Party of China,Minister of National Defense of the People's Republic of China,1971-09-13T00:00:00Z,1959-09-17T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q315475,Lin Biao,Communist Party of China,Vice Chairman of the Communist Party of China,1971-09-13T00:00:00Z,1959-05-25T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q315475,Lin Biao,Communist Party of China,Vice Premier of the State Council of the People's Republic of China,1971-09-13T00:00:00Z,1954-09-15T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q315475,Lin Biao,Communist Party of China,Vice Chairman of the Communist Party of China,1971-09-13T00:00:00Z,1958-05-25T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q381823,Peng Dehuai,Communist Party of China,Minister of National Defense of the People's Republic of China,1959-09-17T00:00:00Z,1954-09-24T00:00:00Z,Marshal of the People's Republic of China,1955-09-23T00:00:00Z,0.0,,Da Yuan Shuai,Da Jiang
+http://www.wikidata.org/entity/Q337436,Sanzo Nosaka,Communist Party of China,member of the House of Representatives of Japan,1950-06-06T00:00:00Z,1946-04-11T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q337436,Sanzo Nosaka,Communist Party of China,member of the House of Councillors,1977-07-03T00:00:00Z,1956-07-08T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q272307,Wang Guangmei,Communist Party of China,spouse of the President of the People's Republic of China,1968-10-21T00:00:00Z,1959-04-27T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q358494,Mao Dun,Communist Party of China,Ministry of Culture of the People's Republic of China,1965-01-01T00:00:00Z,1949-10-21T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q301282,Xi Zhongxun,Communist Party of China,Secretary-General of the State Council,1965-01-01T00:00:00Z,1954-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q710737,Zhang Guohua,Communist Party of China,Secretary of the CPC Tibet Committee,1951-06-01T00:00:00Z,1950-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q709545,Luo Ronghuan,Communist Party of China,Procurator-General of the Supreme People's Procuratorate,1954-01-01T00:00:00Z,1949-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q709545,Luo Ronghuan,Communist Party of China,Director of the People's Liberation Army General Political Department,1956-12-01T00:00:00Z,1954-09-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q707109,Tao Zhu,Communist Party of China,Secretary of the CPC Guangdong Committee,1965-01-01T00:00:00Z,1955-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q704889,Song Renqiong,Communist Party of China,Secretary of the CPC Yunnan Committee,1952-01-01T00:00:00Z,1949-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q704889,Song Renqiong,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,1955-09-27T00:00:00Z,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q704889,Song Renqiong,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q843910,Wu De,Communist Party of China,Secretary of the CPC Jilin Committee,1966-01-01T00:00:00Z,1955-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q843910,Wu De,Communist Party of China,mayor of Tianjin,1955-01-01T00:00:00Z,1953-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q968038,Dong Biwu,Communist Party of China,President of the Supreme People's Court of China,1959-01-01T00:00:00Z,1954-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q1593062,Rao Shushi,Communist Party of China,Secretary of the CPC Shanghai Committee,1950-01-01T00:00:00Z,1949-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q236017,Jiang Qing,Communist Party of China,spouse of the President of the People's Republic of China,1959-04-27T00:00:00Z,1949-10-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q701029,Luo Ruiqing,Communist Party of China,Minister of Public Security of the People's Republic of China,1959-01-01T00:00:00Z,1949-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q3139184,Wei Guoqing,Communist Party of China,chairman of Guangxi,1966-01-01T00:00:00Z,1955-01-01T00:00:00Z,Shang Jiang,1955-09-27T00:00:00Z,0.0,1955-09-27T00:00:00Z,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q3139184,Wei Guoqing,Communist Party of China,chairman of Guangxi,1966-01-01T00:00:00Z,1955-01-01T00:00:00Z,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q3066312,Fan Ming,Communist Party of China,Secretary of the CPC Tibet Committee,1951-12-01T00:00:00Z,1951-06-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q3066312,Fan Ming,Communist Party of China,,,,major general,1955-01-01T00:00:00Z,1.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q1810574,Dogan Penjor Rabgye,Communist Party of China,Kalön,1957-01-01T00:00:00Z,1949-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q2956026,Zhang Jingwu,Communist Party of China,Secretary of the CPC Tibet Committee,1965-08-01T00:00:00Z,1952-03-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q3372962,Huang Huoqing,Communist Party of China,Secretary of the CPC Liaoning Committee,1971-01-01T00:00:00Z,1958-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q3372962,Huang Huoqing,Communist Party of China,Secretary of the CPC Tianjin Committee,1958-01-01T00:00:00Z,1953-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q3372962,Huang Huoqing,Communist Party of China,mayor of Tianjin,1958-01-01T00:00:00Z,1955-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q3377521,Zhang Dingcheng,Communist Party of China,Procurator-General of the Supreme People's Procuratorate,1975-01-01T00:00:00Z,1954-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q513976,Wang Zhen,Communist Party of China,Communist Party Secretary of Xinjiang,1952-01-01T00:00:00Z,1949-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q513976,Wang Zhen,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,1955-09-27T00:00:00Z,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q513976,Wang Zhen,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q472527,Peng Zhen,Communist Party of China,Secretary-General of the Standing Committee of the National People's Congress,1965-01-01T00:00:00Z,1954-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q472527,Peng Zhen,Communist Party of China,mayor of Beijing,1966-01-01T00:00:00Z,1951-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q472527,Peng Zhen,Communist Party of China,Secretary of the CPC Beijing Committee,1966-01-01T00:00:00Z,1948-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q472527,Peng Zhen,Communist Party of China,Head of the Organization Department of the Communist Party of China,1953-01-01T00:00:00Z,1944-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q504372,Ye Jianying,Communist Party of China,mayor of Guangzhou,1952-01-01T00:00:00Z,1949-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q504372,Ye Jianying,Communist Party of China,Secretary of the CPC Guangdong Committee,1955-01-01T00:00:00Z,1949-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q519381,Ngapoi Ngawang Jigme,Communist Party of China,Kalön,1959-01-01T00:00:00Z,1950-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q8320991,Sampo Tsewang Rigzin,Communist Party of China,Kalön,1959-01-01T00:00:00Z,1957-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q6122079,Tan Zheng,Communist Party of China,Director of the People's Liberation Army General Political Department,1961-01-01T00:00:00Z,1956-12-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q6959158,Xie Juezai,Communist Party of China,President of the Supreme People's Court of China,1965-01-01T00:00:00Z,1959-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q8290825,Wang Enmao,Communist Party of China,Communist Party Secretary of Xinjiang,1967-01-01T00:00:00Z,1952-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q312495,Andrei Grechko,Communist Party of the Soviet Union,Commander-in-Chief of the Russian Ground Forces,1960-01-01T00:00:00Z,1957-01-01T00:00:00Z,Marshal of the Soviet Union,1955-03-11T00:00:00Z,0.0,,Generalissimus of the Soviet Union,General of the army
+http://www.wikidata.org/entity/Q312495,Andrei Grechko,Communist Party of the Soviet Union,,,,colonel general,1943-10-09T00:00:00Z,0.0,1953-08-03T00:00:00Z,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q312495,Andrei Grechko,Communist Party of the Soviet Union,,,,General of the army,1953-08-03T00:00:00Z,0.0,1955-03-11T00:00:00Z,,
+http://www.wikidata.org/entity/Q295781,Nikolai Podgorny,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1967-01-01T00:00:00Z,1947-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q295781,Nikolai Podgorny,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1977-01-01T00:00:00Z,1954-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q295781,Nikolai Podgorny,Communist Party of the Soviet Union,First Secretary of the Communist Party of Ukraine,1963-07-02T00:00:00Z,1957-12-26T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q11172656,Bao Cheng,Communist Party of China,commanding officer,1950-07-27T00:00:00Z,1950-07-26T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q1422312,Feodor I. Kozhevnikov,Communist Party of the Soviet Union,Judge of the International Court of Justice,1961-01-01T00:00:00Z,1953-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q355639,Nikolai Shvernik,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1966-01-01T00:00:00Z,1937-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q355639,Nikolai Shvernik,Communist Party of the Soviet Union,Chairman of the Presidium of the Supreme Soviet of the USSR,1953-03-15T00:00:00Z,1946-03-19T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q48084,Andrey Yeryomenko,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-01-01T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q48084,Andrey Yeryomenko,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1970-11-19T00:00:00Z,1946-01-01T00:00:00Z,Marshal of the Soviet Union,1955-01-01T00:00:00Z,1.0,,Generalissimus of the Soviet Union,General of the army
+http://www.wikidata.org/entity/Q48032,Vasily Sokolovsky,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1961-01-01T00:00:00Z,1952-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q1746589,Sergey Golunsky,Communist Party of the Soviet Union,Judge of the International Court of Justice,1953-01-01T00:00:00Z,1952-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q1509206,Georgy Pushkin,Communist Party of the Soviet Union,ambassador of the Soviet Union to Hungary,1949-01-01T00:00:00Z,1945-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q1789298,Sergei Borisovitch Krylov,Communist Party of the Soviet Union,Judge of the International Court of Justice,1952-01-01T00:00:00Z,1946-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q1755450,Mirza Ibrahimov,Communist Party of the Soviet Union,Chairman of the Presidium of the Supreme Soviet of the Azerbaijan SSR,1958-01-23T00:00:00Z,1954-03-09T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q35314,Nikita Khrushchev,Communist Party of the Soviet Union,General Secretary of the Communist Party of the Soviet Union,1964-10-14T00:00:00Z,1953-09-14T00:00:00Z,lieutenant general,1943-02-12T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q35314,Nikita Khrushchev,Communist Party of the Soviet Union,First Secretary of the Communist Party of Ukraine,1949-12-19T00:00:00Z,1947-12-26T00:00:00Z,lieutenant general,1943-02-12T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q35314,Nikita Khrushchev,Communist Party of the Soviet Union,Premier of the Soviet Union,1964-10-14T00:00:00Z,1958-03-27T00:00:00Z,lieutenant general,1943-02-12T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q44071,Yuri Andropov,Communist Party of the Soviet Union,ambassador of the Soviet Union to Hungary,1957-01-01T00:00:00Z,1954-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q855,Joseph Stalin,Communist Party of the Soviet Union,General Secretary of the Communist Party of the Soviet Union,1952-10-16T00:00:00Z,1922-04-03T00:00:00Z,Generalissimus of the Soviet Union,1945-01-01T00:00:00Z,1.0,,,Admiral of the Fleet of the Soviet Union
+http://www.wikidata.org/entity/Q855,Joseph Stalin,Communist Party of the Soviet Union,Premier of the Soviet Union,1953-03-05T00:00:00Z,1941-05-06T00:00:00Z,Generalissimus of the Soviet Union,1945-01-01T00:00:00Z,1.0,,,Admiral of the Fleet of the Soviet Union
+http://www.wikidata.org/entity/Q855,Joseph Stalin,Communist Party of the Soviet Union,Minister of Defence,1946-02-25T00:00:00Z,1941-07-19T00:00:00Z,Generalissimus of the Soviet Union,1945-01-01T00:00:00Z,1.0,,,Admiral of the Fleet of the Soviet Union
+http://www.wikidata.org/entity/Q855,Joseph Stalin,Communist Party of the Soviet Union,Member of the Politburo of the CPSU Central Committee,1953-03-05T00:00:00Z,1919-03-25T00:00:00Z,Generalissimus of the Soviet Union,1945-01-01T00:00:00Z,1.0,,,Admiral of the Fleet of the Soviet Union
+http://www.wikidata.org/entity/Q494597,Pak Song-chol,Workers' Party of Korea,Ministry of Foreign Affairs of the Democratic People's Republic of Korea,1970-07-01T00:00:00Z,1959-10-23T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q623858,Ri Sung-yop,Workers' Party of Korea,justice minister,1951-12-01T00:00:00Z,1948-09-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q1977104,Mikhail Zimyanin,Communist Party of the Soviet Union,Minister of Public Education of the BSSR,1947-01-01T00:00:00Z,1947-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q132899,Vyacheslav Molotov,Communist Party of the Soviet Union,Ministry of Foreign Affairs of USSR,1956-06-01T00:00:00Z,1953-03-05T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q132899,Vyacheslav Molotov,Communist Party of the Soviet Union,First Deputy Premier of the Soviet Union,1957-06-29T00:00:00Z,1942-08-16T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q155074,Georgi Dimitrov,Communist Party of the Soviet Union,Chairman of the Council of Ministers of the People's Republic of Bulgaria,1949-07-02T00:00:00Z,1946-11-23T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q65013,Otto Winzer,Communist Party of the Soviet Union,member of the Berlin City Council,1949-01-14T00:00:00Z,1946-11-26T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q65013,Otto Winzer,Communist Party of the Soviet Union,member of the Volkskammer,1975-01-01T00:00:00Z,1950-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q152738,Anastas Mikoyan,Communist Party of the Soviet Union,First Deputy Premier of the Soviet Union,1964-07-15T00:00:00Z,1955-02-28T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q159582,Alexander Pokryshkin,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1984-01-01T00:00:00Z,1946-01-01T00:00:00Z,colonel,1944-07-02T00:00:00Z,0.0,1953-08-03T00:00:00Z,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q159582,Alexander Pokryshkin,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1984-01-01T00:00:00Z,1946-01-01T00:00:00Z,Air Force major general,1953-08-03T00:00:00Z,0.0,1958-02-18T00:00:00Z,,
+http://www.wikidata.org/entity/Q159582,Alexander Pokryshkin,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1984-01-01T00:00:00Z,1946-01-01T00:00:00Z,Air Force lieutenant general,1958-02-18T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q141829,Lavrentiy Beria,Communist Party of the Soviet Union,First Deputy Premier of the Soviet Union,1953-06-26T00:00:00Z,1953-03-05T00:00:00Z,Marshal of the Soviet Union,1945-01-01T00:00:00Z,1.0,,Generalissimus of the Soviet Union,General of the army
+http://www.wikidata.org/entity/Q124617,Georgy Zhukov,Communist Party of the Soviet Union,Minister of Defence,1957-10-26T00:00:00Z,1955-02-09T00:00:00Z,Marshal of the Soviet Union,1943-01-18T00:00:00Z,0.0,,Generalissimus of the Soviet Union,General of the army
+http://www.wikidata.org/entity/Q155860,Andrey Vyshinsky,Communist Party of the Soviet Union,Minister of Foreign Affairs,1953-01-01T00:00:00Z,1949-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q155860,Andrey Vyshinsky,Communist Party of the Soviet Union,Ministry of Foreign Affairs of USSR,1953-03-05T00:00:00Z,1949-03-04T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q150894,Aleksandr Vasilevsky,Communist Party of the Soviet Union,Minister of Defence,1953-01-01T00:00:00Z,1949-01-01T00:00:00Z,Marshal of the Soviet Union,1943-02-16T00:00:00Z,0.0,,Generalissimus of the Soviet Union,General of the army
+http://www.wikidata.org/entity/Q177917,Imre Nagy,Communist Party of the Soviet Union,Prime Minister of Hungary,1955-04-18T00:00:00Z,1953-07-04T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q177917,Imre Nagy,Communist Party of the Soviet Union,Minister of Foreign Affairs of Hungary,1956-11-04T00:00:00Z,1956-11-02T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q186185,Kliment Voroshilov,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1969-01-01T00:00:00Z,1937-01-01T00:00:00Z,Marshal of the Soviet Union,1935-11-01T00:00:00Z,0.0,,Generalissimus of the Soviet Union,General of the army
+http://www.wikidata.org/entity/Q186185,Kliment Voroshilov,Communist Party of the Soviet Union,Chairman of the Presidium of the Supreme Soviet of the USSR,1960-05-07T00:00:00Z,1953-03-15T00:00:00Z,Marshal of the Soviet Union,1935-11-01T00:00:00Z,0.0,,Generalissimus of the Soviet Union,General of the army
+http://www.wikidata.org/entity/Q184267,Andrei Gromyko,Communist Party of the Soviet Union,Permanent Representative of Russia to the United Nations,1948-01-01T00:00:00Z,1946-04-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q167573,Mikhail Kalashnikov,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1958-01-01T00:00:00Z,1950-01-01T00:00:00Z,staff sergeant,1941-07-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q203264,Pavel Solovyov,Communist Party of the Soviet Union,chief designer,1981-01-01T00:00:00Z,1953-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q164396,Victor Ambartsumian,Communist Party of the Soviet Union,president,1993-01-01T00:00:00Z,1947-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q180588,Georgy Malenkov,Communist Party of the Soviet Union,Premier of the Soviet Union,1955-02-08T00:00:00Z,1953-03-06T00:00:00Z,lieutenant general,1943-03-12T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q167997,Otto Schmidt,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1946-01-01T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q551661,Vasily Degtyaryov,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1949-01-16T00:00:00Z,1940-12-15T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q2157225,Nikolay Pukhov,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1958-01-01T00:00:00Z,1950-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q2025358,Leonid Korniyets,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1955-01-01T00:00:00Z,1938-06-26T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q2388810,Alexander Nesmeyanov,Communist Party of the Soviet Union,Rector of Moscow State University,1951-01-01T00:00:00Z,1948-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q2383086,Dmitry Manuilsky,Communist Party of the Soviet Union,Foreign Minister of the Ukrainian Soviet Socialist Republic,1952-01-01T00:00:00Z,1946-03-15T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q2372634,Musa Gareyev,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1958-01-01T00:00:00Z,1946-01-01T00:00:00Z,colonel,1956-01-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4093847,Vladimir Borisov,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-01-01T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q708454,Demyan Korotchenko,Communist Party of the Soviet Union,Chairman of the Presidium of the Supreme Soviet of the Ukrainian SSR,1969-04-07T00:00:00Z,1954-01-15T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q580027,Gara Garayev,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1976-01-01T00:00:00Z,1955-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q695002,Nikoloz Muskhelishvili,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1976-01-01T00:00:00Z,1937-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q695002,Nikoloz Muskhelishvili,Communist Party of the Soviet Union,chairperson,1972-01-01T00:00:00Z,1941-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q595649,Mikhail Voznyak,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-01-01T00:00:00Z,1940-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q215705,Lazar Kaganovich,Communist Party of the Soviet Union,First Deputy Premier of the Soviet Union,1957-06-29T00:00:00Z,1953-03-05T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q215705,Lazar Kaganovich,Communist Party of the Soviet Union,First Secretary of the Communist Party of Ukraine,1947-12-26T00:00:00Z,1947-03-03T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q229828,Mikhail Ivanowich Kalinin,Communist Party of the Soviet Union,Chairman of the Presidium of the Supreme Soviet of the USSR,1946-03-19T00:00:00Z,1938-01-17T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q204338,Rodion Malinovsky,Communist Party of the Soviet Union,Minister of Defence,1967-03-31T00:00:00Z,1957-10-26T00:00:00Z,Marshal of the Soviet Union,1944-09-10T00:00:00Z,0.0,,Generalissimus of the Soviet Union,General of the army
+http://www.wikidata.org/entity/Q4135733,Mihail Georgadze,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1982-11-23T00:00:00Z,1954-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q2599504,Sofya Yanovskaya,Communist Party of the Soviet Union,professor,1966-01-01T00:00:00Z,1959-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q2985033,Aleksandr Aksyonov,Communist Party of the Soviet Union,member of the Supreme Soviet of the Byelorussian SSR,1967-01-01T00:00:00Z,1955-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q2985033,Aleksandr Aksyonov,Communist Party of the Soviet Union,member of the Supreme Soviet of the Byelorussian SSR,1983-01-01T00:00:00Z,1955-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4191595,Pavel Zernov,Communist Party of the Soviet Union,director,1951-01-01T00:00:00Z,1946-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q2992272,Aleksandr Aleksandrovich Novikov,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1946-01-01T00:00:00Z,1946-01-01T00:00:00Z,Chief Marshal,1944-02-21T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1315266,Endre Sík,Communist Party of the Soviet Union,Hungarian Ambassador to the United States,1949-01-01T00:00:00Z,1948-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q1315266,Endre Sík,Communist Party of the Soviet Union,Minister of Foreign Affairs of Hungary,1961-09-13T00:00:00Z,1958-02-15T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q3016768,Ilya Galkin,Communist Party of the Soviet Union,Rector of Moscow State University,1947-01-01T00:00:00Z,1943-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4247528,Victor Kupradze,Communist Party of the Soviet Union,chairperson,1963-01-01T00:00:00Z,1954-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4247528,Victor Kupradze,Communist Party of the Soviet Union,rector,1958-01-01T00:00:00Z,1954-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4247528,Victor Kupradze,Communist Party of the Soviet Union,member of parliament,1952-01-01T00:00:00Z,1949-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4247528,Victor Kupradze,Communist Party of the Soviet Union,education minister,1953-01-01T00:00:00Z,1944-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4306546,Boris Glebovich Muzrukov,Communist Party of the Soviet Union,director,1974-01-01T00:00:00Z,1955-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4342429,Luka Palamarchuk,Communist Party of the Soviet Union,Foreign Minister of the Ukrainian Soviet Socialist Republic,1965-08-13T00:00:00Z,1954-05-11T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4342429,Luka Palamarchuk,Communist Party of the Soviet Union,Foreign Minister of the Ukrainian Soviet Socialist Republic,1954-05-11T00:00:00Z,1953-06-17T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4149878,Ivan Grishin,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1950-01-01T00:00:00Z,1946-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4144390,Alexander Gorkin,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1974-01-01T00:00:00Z,1937-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4154838,Haykanoush Danielyan,Communist Party of the Soviet Union,director,1952-01-01T00:00:00Z,1949-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4154838,Haykanoush Danielyan,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1950-01-01T00:00:00Z,1946-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4148813,Mykhailo Hrechukha,Communist Party of the Soviet Union,Chairman of the Presidium of the Supreme Soviet of the Ukrainian SSR,1954-01-15T00:00:00Z,1939-07-28T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4209489,Stepan Kalinin,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-01-01T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4426316,Ivan Sovetnikov,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-01-01T00:00:00Z,1940-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4526884,Kirill Știrbu,Communist Party of the Soviet Union,Member of the Supreme Soviet of the Moldavian Soviet Socialist Republic,1959-01-01T00:00:00Z,1947-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4526832,Viktor Shtepo,Communist Party of the Soviet Union,chief executive officer,1990-01-01T00:00:00Z,1959-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4424688,Ilia Smirnov,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-02-09T00:00:00Z,1938-06-26T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4424688,Ilia Smirnov,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1950-03-12T00:00:00Z,1937-12-12T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4419064,Siergiej Sikorski,Communist Party of the Soviet Union,chairman of the Brest Regional Executive Committee,1946-01-01T00:00:00Z,1944-07-20T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q12080952,Anatoliy Baranovsky,Communist Party of the Soviet Union,Foreign Minister of the Ukrainian Soviet Socialist Republic,1953-06-17T00:00:00Z,1952-06-10T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q6872036,Mir Bashir Gasimov,Communist Party of the Soviet Union,Chairman of the Presidium of the Supreme Soviet of the Azerbaijan SSR,1949-04-23T00:00:00Z,1938-07-21T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q9371394,Wasilij Begma,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1962-01-01T00:00:00Z,1940-03-24T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q6453840,İlyas Abdullayev,Communist Party of the Soviet Union,Chairman of the Presidium of the Supreme Soviet of the Azerbaijan SSR,1959-11-26T00:00:00Z,1958-01-23T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4675500,Maryna Hnatenko,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1950-01-01T00:00:00Z,1946-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4675500,Maryna Hnatenko,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-01-01T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q12171494,Mikhail Yevgenyevich Shevchenko,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-02-09T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q12157488,Wasilij Starczenko,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1948-07-17T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q12157488,Wasilij Starczenko,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1946-01-01T00:00:00Z,1941-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q12083086,Ivan Bobrov,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-02-09T00:00:00Z,1938-06-26T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q12111369,Ivan Fjodorovitsj Kozatsjoek,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1959-07-01T00:00:00Z,1941-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q13052864,Eduard Topchyan,Communist Party of the Soviet Union,chairperson,1975-01-01T00:00:00Z,1959-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q12843584,Nəzər Heydərov,Communist Party of the Soviet Union,Chairman of the Presidium of the Supreme Soviet of the Azerbaijan SSR,1954-03-09T00:00:00Z,1949-05-18T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q12863576,David Mamamtavrishvili,Communist Party of the Soviet Union,health minister,1959-01-01T00:00:00Z,1954-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q15060994,Piotr Szpilewoj,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-01-01T00:00:00Z,1938-06-26T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q15060581,Michaił Drożżyn,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-02-09T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q15069699,Serhij Kostiuczenko,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1954-01-01T00:00:00Z,1941-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q15069699,Serhij Kostiuczenko,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-02-09T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q16171572,Anna Grigorevna Gogol,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-02-09T00:00:00Z,1940-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q16171572,Anna Grigorevna Gogol,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1962-01-01T00:00:00Z,1946-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q16643596,Saftar Jafarov,Communist Party of the Soviet Union,Chairman of the Presidium of the Supreme Soviet of the Azerbaijan SSR,1961-11-16T00:00:00Z,1959-11-25T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q16398668,Sahak Karapetian,Communist Party of the Soviet Union,Prime Minister of Armenia,1952-01-01T00:00:00Z,1947-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q16398667,Sahak Bazyan,Communist Party of the Soviet Union,dean,1957-01-01T00:00:00Z,1951-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q17044113,Ivan Vetrov,Communist Party of the Soviet Union,Prosecutor of the BSSR,1949-01-01T00:00:00Z,1940-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q18278588,Yakov Tereshchenko,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1963-01-01T00:00:00Z,1959-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q18246094,Andrij Miziuk,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1959-01-01T00:00:00Z,1940-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4282021,Wasilij Markow,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1962-01-01T00:00:00Z,1941-01-05T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q4282021,Wasilij Markow,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-01-01T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q20065778,Stepan Balyka,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-02-09T00:00:00Z,1938-06-26T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q20030285,Nikolay Pegov,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1950-01-01T00:00:00Z,1937-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q20030285,Nikolay Pegov,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1958-01-01T00:00:00Z,1954-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q20509296,Garnik Stepanian,Communist Party of the Soviet Union,director,1963-01-01T00:00:00Z,1954-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q22008913,Athanasios I.Tubylov,Communist Party of the Soviet Union,head teacher,1967-01-01T00:00:00Z,1952-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q22008913,Athanasios I.Tubylov,Communist Party of the Soviet Union,head teacher,1952-01-01T00:00:00Z,1951-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q22919483,Iwan Martynienko,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1951-01-01T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q22919483,Iwan Martynienko,Communist Party of the Soviet Union,member of the Supreme Council of the Soviet Union,1954-01-01T00:00:00Z,1946-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q21096799,Zakhar Dorofieiev,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-01-01T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q24025826,Volodymyr Didur,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-02-09T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q24025679,Michaił Gieorgijewicz Kuzniecow,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-01-01T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q27308860,Vladimir Valuev,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1959-01-01T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q47258700,Ivan Iĺjušyn,Communist Party of the Soviet Union,Minister of Public Education of the BSSR,1961-01-01T00:00:00Z,1951-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q43429843,Evdokia Uralova,Communist Party of the Soviet Union,Minister of Public Education of the BSSR,1947-01-01T00:00:00Z,1946-03-26T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q54553655,Domna Nikolaevna Gesjko,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-02-09T00:00:00Z,1941-01-21T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q54366268,Ivan Velychko,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-01-01T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q54312819,Ivan Orap,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1951-01-01T00:00:00Z,1940-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q54232046,Taisiia Tkach,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-02-09T00:00:00Z,1938-06-26T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q54877396,Ivan Yermylov,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-02-09T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q53924228,Ivan Biletskyi,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1951-01-01T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q54257423,Olena Maksymivna Melnychuk,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-02-09T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q54262928,Ivan Borisov,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-02-09T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q54554293,Marija Iosifovna Gisjak,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-02-09T00:00:00Z,1940-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q21683931,Marija Alekseevna Didik,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1951-01-01T00:00:00Z,1940-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q30958959,Rodion Borisov,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1951-01-01T00:00:00Z,1941-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q61116270,Mykhailo Kushnir,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-01-01T00:00:00Z,1940-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q63063048,Yelizaveta Khylchuk,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-02-09T00:00:00Z,1938-06-26T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q61950996,Anastasiia Mospan,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-01-01T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q61116178,Sabina Turkevych,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-02-09T00:00:00Z,1940-03-24T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q55187980,Olena Ivanovna Kiva,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-02-09T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q55270884,Andrey Kozlov,Communist Party of the Soviet Union,member of the Supreme Soviet of the Ukrainian Soviet Socialist Republic,1947-02-09T00:00:00Z,1938-01-01T00:00:00Z,,,,,,
+http://www.wikidata.org/entity/Q48048,Ivan Ignatyevich Yakubovsky,Communist Party of the Soviet Union,,,,senior lieutenant,1939-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q48048,Ivan Ignatyevich Yakubovsky,Communist Party of the Soviet Union,,,,podpolkovnik,1942-03-27T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q48048,Ivan Ignatyevich Yakubovsky,Communist Party of the Soviet Union,,,,colonel general,1958-02-18T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q48048,Ivan Ignatyevich Yakubovsky,Communist Party of the Soviet Union,,,,colonel,1942-11-30T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q48048,Ivan Ignatyevich Yakubovsky,Communist Party of the Soviet Union,,,,captain,1940-12-23T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q48048,Ivan Ignatyevich Yakubovsky,Communist Party of the Soviet Union,,,,major,1941-12-01T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q48048,Ivan Ignatyevich Yakubovsky,Communist Party of the Soviet Union,,,,lieutenant,1936-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q48102,Matvei Zakharov,Communist Party of the Soviet Union,,,,colonel general,1943-10-20T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q48102,Matvei Zakharov,Communist Party of the Soviet Union,,,,colonel,1936-01-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q48102,Matvei Zakharov,Communist Party of the Soviet Union,,,,Marshal of the Soviet Union,1959-05-08T00:00:00Z,0.0,,Generalissimus of the Soviet Union,General of the army
+http://www.wikidata.org/entity/Q48102,Matvei Zakharov,Communist Party of the Soviet Union,,,,Komdiv,1938-02-22T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q48102,Matvei Zakharov,Communist Party of the Soviet Union,,,,kombrig,1937-07-16T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q48102,Matvei Zakharov,Communist Party of the Soviet Union,,,,major general,1940-06-04T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q48102,Matvei Zakharov,Communist Party of the Soviet Union,,,,Comcor,1939-02-09T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q48102,Matvei Zakharov,Communist Party of the Soviet Union,,,,General of the army,1945-05-29T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q48102,Matvei Zakharov,Communist Party of the Soviet Union,,,,lieutenant general,1942-05-30T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q48037,Pyotr Koshevoy,Communist Party of the Soviet Union,,,,lieutenant general,1944-05-17T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q48037,Pyotr Koshevoy,Communist Party of the Soviet Union,,,,colonel,1940-02-29T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q48037,Pyotr Koshevoy,Communist Party of the Soviet Union,,,,colonel general,1954-05-31T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q48037,Pyotr Koshevoy,Communist Party of the Soviet Union,,,,major general,1942-10-01T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q48053,Kirill Moskalenko,Communist Party of the Soviet Union,,,,major general,1940-06-04T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q48053,Kirill Moskalenko,Communist Party of the Soviet Union,,,,Marshal of the Soviet Union,1955-03-11T00:00:00Z,0.0,,Generalissimus of the Soviet Union,General of the army
+http://www.wikidata.org/entity/Q48053,Kirill Moskalenko,Communist Party of the Soviet Union,,,,colonel general,1943-09-19T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q48053,Kirill Moskalenko,Communist Party of the Soviet Union,,,,lieutenant general,1943-01-19T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q48053,Kirill Moskalenko,Communist Party of the Soviet Union,,,,colonel,1938-08-16T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q48053,Kirill Moskalenko,Communist Party of the Soviet Union,,,,General of the army,1953-08-03T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q48100,Nikolay Ivanovich Krylov,Communist Party of the Soviet Union,,,,major,1935-01-01T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q48100,Nikolay Ivanovich Krylov,Communist Party of the Soviet Union,,,,colonel,1938-02-17T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q48100,Nikolay Ivanovich Krylov,Communist Party of the Soviet Union,,,,colonel general,1944-07-15T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q48100,Nikolay Ivanovich Krylov,Communist Party of the Soviet Union,,,,major general,1941-12-27T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q48100,Nikolay Ivanovich Krylov,Communist Party of the Soviet Union,,,,General of the army,1953-09-18T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q48100,Nikolay Ivanovich Krylov,Communist Party of the Soviet Union,,,,lieutenant general,1943-09-09T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q60084,Mikhail Katukov,Communist Party of the Soviet Union,,,,Marshal of the branch,1959-10-05T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q60084,Mikhail Katukov,Communist Party of the Soviet Union,,,,major,1936-01-01T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q60084,Mikhail Katukov,Communist Party of the Soviet Union,,,,colonel,1938-02-17T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q48093,Nikolai Bulganin,Communist Party of the Soviet Union,,,,colonel general,1958-01-01T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q48112,Ivan Bagramyan,Communist Party of the Soviet Union,,,,colonel,1935-11-29T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q48112,Ivan Bagramyan,Communist Party of the Soviet Union,,,,General of the army,1943-11-17T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q48112,Ivan Bagramyan,Communist Party of the Soviet Union,,,,major general,1941-08-12T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q48112,Ivan Bagramyan,Communist Party of the Soviet Union,,,,lieutenant general,1941-12-27T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q48112,Ivan Bagramyan,Communist Party of the Soviet Union,,,,colonel general,1943-08-27T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q48112,Ivan Bagramyan,Communist Party of the Soviet Union,,,,Marshal of the Soviet Union,1955-03-11T00:00:00Z,0.0,,Generalissimus of the Soviet Union,General of the army
+http://www.wikidata.org/entity/Q48149,Fyodor Tolbukhin,Communist Party of the Soviet Union,,,,lieutenant general,1943-01-19T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q48149,Fyodor Tolbukhin,Communist Party of the Soviet Union,,,,colonel general,1943-04-28T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q48149,Fyodor Tolbukhin,Communist Party of the Soviet Union,,,,Marshal of the Soviet Union,1944-09-12T00:00:00Z,0.0,,Generalissimus of the Soviet Union,General of the army
+http://www.wikidata.org/entity/Q48149,Fyodor Tolbukhin,Communist Party of the Soviet Union,,,,Komdiv,1938-07-15T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q48149,Fyodor Tolbukhin,Communist Party of the Soviet Union,,,,General of the army,1943-09-21T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q48149,Fyodor Tolbukhin,Communist Party of the Soviet Union,,,,major general,1940-06-04T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q48149,Fyodor Tolbukhin,Communist Party of the Soviet Union,,,,kombrig,1935-11-28T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q76311,Semen Bogdanov,Communist Party of the Soviet Union,,,,colonel,1936-01-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q76311,Semen Bogdanov,Communist Party of the Soviet Union,,,,Marshal of the branch,1945-06-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q49463,Marina Raskova,Communist Party of the Soviet Union,,,,major,1942-01-01T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q8299349,Lai Chuanzhu,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8299349,Lai Chuanzhu,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q699398,Ye Fei,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q699398,Ye Fei,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q716083,Ulanhu,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q716083,Ulanhu,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q40482,Konstantin Rokossovsky,Communist Party of the Soviet Union,,,,Gefreiter,1914-08-08T00:00:00Z,0.0,,sergeant,private
+http://www.wikidata.org/entity/Q40482,Konstantin Rokossovsky,Communist Party of the Soviet Union,,,,Gefreiter,1914-08-08T00:00:00Z,0.0,,Obergefreiter,private
+http://www.wikidata.org/entity/Q40482,Konstantin Rokossovsky,Communist Party of the Soviet Union,,,,Marshal of Poland,1949-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q40482,Konstantin Rokossovsky,Communist Party of the Soviet Union,,,,colonel general,1943-01-15T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q40482,Konstantin Rokossovsky,Communist Party of the Soviet Union,,,,Marshal of the Soviet Union,1944-06-29T00:00:00Z,0.0,,Generalissimus of the Soviet Union,General of the army
+http://www.wikidata.org/entity/Q40482,Konstantin Rokossovsky,Communist Party of the Soviet Union,,,,General of the army,1943-04-28T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q40482,Konstantin Rokossovsky,Communist Party of the Soviet Union,,,,major general,1940-06-04T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q40482,Konstantin Rokossovsky,Communist Party of the Soviet Union,,,,Komdiv,1935-11-26T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q40482,Konstantin Rokossovsky,Communist Party of the Soviet Union,,,,Gefreiter,1914-08-08T00:00:00Z,0.0,,junior sergeant,private
+http://www.wikidata.org/entity/Q40482,Konstantin Rokossovsky,Communist Party of the Soviet Union,,,,lieutenant general,1941-09-11T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q8318423,Zhang Tianyun,Communist Party of China,,,,lieutenant general,1955-01-01T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q2983888,Yang Chengwu,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q2983888,Yang Chengwu,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q701146,Dong Qiwu,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q701146,Dong Qiwu,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q4537824,Yang Yong,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q4537824,Yang Yong,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q4059765,Gevork Akopyants,Communist Party of the Soviet Union,,,,lieutenant,1941-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4059765,Gevork Akopyants,Communist Party of the Soviet Union,,,,senior lieutenant,1942-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q5964482,Zhu Liangcai,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q5964482,Zhu Liangcai,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q710115,Chen Xilian,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q710115,Chen Xilian,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q837398,Chen Zaidao,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q837398,Chen Zaidao,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q4054925,Konstantin Abramov,Communist Party of the Soviet Union,,,,captain,1938-05-29T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4054925,Konstantin Abramov,Communist Party of the Soviet Union,,,,major,1939-07-31T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4054925,Konstantin Abramov,Communist Party of the Soviet Union,,,,colonel,1942-03-18T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4054925,Konstantin Abramov,Communist Party of the Soviet Union,,,,lieutenant,1936-01-13T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4054925,Konstantin Abramov,Communist Party of the Soviet Union,,,,podpolkovnik,1941-12-16T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4054925,Konstantin Abramov,Communist Party of the Soviet Union,,,,senior lieutenant,1937-02-15T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q8314185,Xiao Hua,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8314185,Xiao Hua,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8070454,Zhang Zongxun,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8070454,Zhang Zongxun,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q5090869,Chen Qihan,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q5090869,Chen Qihan,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q495182,Song Shi-Lun,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q495182,Song Shi-Lun,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8314180,Su Zhenhua,Communist Party of China,,,,Hai Jun Shang Jiang,1955-09-27T00:00:00Z,0.0,,,Hai Jun Zhong Jiang
+http://www.wikidata.org/entity/Q8272159,Chen Mingren,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8272159,Chen Mingren,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8314147,Li Jukui,Communist Party of China,,,,Shang Jiang,1958-01-01T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8314147,Li Jukui,Communist Party of China,,,,Shang Jiang,1958-01-01T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q7928648,Zhou Chunquan,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q7928648,Zhou Chunquan,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q710154,Huang Yongsheng,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q710154,Huang Yongsheng,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8314106,Fu Qiutao,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8314106,Fu Qiutao,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8314194,He Bingyan,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8314194,He Bingyan,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8314120,Tang Liang,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8314120,Tang Liang,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8314162,Wang Jian'an,Communist Party of China,,,,Shang Jiang,1956-01-25T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8314162,Wang Jian'an,Communist Party of China,,,,Shang Jiang,1956-01-25T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q5646706,Han Xianchu,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q5646706,Han Xianchu,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8299246,Chen Bojun,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8299246,Chen Bojun,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8299045,Fu Zhong,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8299045,Fu Zhong,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8299305,Li Tianyou,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8299305,Li Tianyou,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8299200,Deng Hua,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8299200,Deng Hua,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8293154,Li Zhimin,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8293154,Li Zhimin,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q5520452,Gan Siqi,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q5520452,Gan Siqi,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8299786,Zhong Qiguang,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8299786,Zhong Qiguang,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q4054952,Tikhon Abramov,Communist Party of the Soviet Union,,,,major,1940-09-06T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4054952,Tikhon Abramov,Communist Party of the Soviet Union,,,,podpolkovnik,1942-02-25T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4054952,Tikhon Abramov,Communist Party of the Soviet Union,,,,captain,1936-01-24T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4054952,Tikhon Abramov,Communist Party of the Soviet Union,,,,colonel,1942-11-30T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q6538916,Li Kenong,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q6538916,Li Kenong,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q701254,Zhou Shidi,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q701254,Zhou Shidi,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q698759,Hong Xuezhi,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q698759,Hong Xuezhi,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8314131,Peng Shaohui,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8314131,Peng Shaohui,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q708941,Xiao Ke,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q708941,Xiao Ke,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8314155,Li Da,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8314155,Li Da,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q576272,Lü Zhengcao,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q576272,Lü Zhengcao,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q835115,Xu Shiyou,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q835115,Xu Shiyou,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q1926859,Yang Dezhi,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q1926859,Yang Dezhi,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8299284,Zhou Huan,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8299284,Zhou Huan,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q716911,Zhang Aiping,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q716911,Zhang Aiping,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8070517,Zhao Erlu,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8070517,Zhao Erlu,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8314170,Wang Xinting,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8314170,Wang Xinting,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q7929343,Yan Hongyan,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q7929343,Yan Hongyan,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8298445,Wang Ping,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8298445,Wang Ping,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q7327,Yuri Gagarin,Communist Party of the Soviet Union,,,,lieutenant,1957-11-05T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q7327,Yuri Gagarin,Communist Party of the Soviet Union,,,,senior lieutenant,1959-11-06T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q6854077,Ni Zhiliang,Communist Party of China,,,,lieutenant general,1955-01-01T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q4451388,Tao Zhiyue,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q4451388,Tao Zhiyue,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8299269,Guo Tianmin,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Da Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q8299269,Guo Tianmin,Communist Party of China,,,,Shang Jiang,1955-09-27T00:00:00Z,0.0,,Yi Ji Shang Jiang,Zhong Jiang
+http://www.wikidata.org/entity/Q699118,Liu Yalou,Communist Party of China,,,,Kong Jun Shang Jiang,1955-09-27T00:00:00Z,0.0,,,Kong Jun Zhong Jiang
+http://www.wikidata.org/entity/Q8299846,Liu Zhen,Communist Party of China,,,,Kong Jun Shang Jiang,1955-09-27T00:00:00Z,0.0,,,Kong Jun Zhong Jiang
+http://www.wikidata.org/entity/Q42398,Mikhail Sholokhov,Communist Party of the Soviet Union,,,,colonel,1943-01-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q191702,Semyon Timoshenko,Communist Party of the Soviet Union,,,,Komandarm 2nd rank,1937-09-10T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q191702,Semyon Timoshenko,Communist Party of the Soviet Union,,,,Marshal of the Soviet Union,1940-05-07T00:00:00Z,0.0,,Generalissimus of the Soviet Union,General of the army
+http://www.wikidata.org/entity/Q191702,Semyon Timoshenko,Communist Party of the Soviet Union,,,,Komandarm 1st rank,1939-02-08T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q191702,Semyon Timoshenko,Communist Party of the Soviet Union,,,,Comcor,1935-09-30T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4065435,Andrey Matveyevich Andreyev,Communist Party of the Soviet Union,,,,colonel general,1956-11-26T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q4065435,Andrey Matveyevich Andreyev,Communist Party of the Soviet Union,,,,major,1939-05-05T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4065435,Andrey Matveyevich Andreyev,Communist Party of the Soviet Union,,,,major general,1942-05-03T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q4065435,Andrey Matveyevich Andreyev,Communist Party of the Soviet Union,,,,lieutenant general,1945-04-20T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q4065435,Andrey Matveyevich Andreyev,Communist Party of the Soviet Union,,,,Red Army man,1924-10-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4065435,Andrey Matveyevich Andreyev,Communist Party of the Soviet Union,,,,senior politruk,1936-04-17T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4065435,Andrey Matveyevich Andreyev,Communist Party of the Soviet Union,,,,colonel,1940-02-13T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4065509,Nikolay Andreyev,Communist Party of the Soviet Union,,,,Red Army man,1940-09-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4065509,Nikolay Andreyev,Communist Party of the Soviet Union,,,,podpolkovnik,1952-04-12T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4065509,Nikolay Andreyev,Communist Party of the Soviet Union,,,,senior lieutenant,1943-05-06T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4065509,Nikolay Andreyev,Communist Party of the Soviet Union,,,,lieutenant,1942-08-13T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4065509,Nikolay Andreyev,Communist Party of the Soviet Union,,,,colonel,1957-06-29T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4065509,Nikolay Andreyev,Communist Party of the Soviet Union,,,,mladshy leytenant,1942-03-17T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4065509,Nikolay Andreyev,Communist Party of the Soviet Union,,,,captain,1945-03-09T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4065509,Nikolay Andreyev,Communist Party of the Soviet Union,,,,major,1949-03-14T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q550892,Alexander Koldunov,Communist Party of the Soviet Union,,,,lieutenant,1943-09-23T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q550892,Alexander Koldunov,Communist Party of the Soviet Union,,,,podpolkovnik,1949-05-06T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q550892,Alexander Koldunov,Communist Party of the Soviet Union,,,,sub-lieutenant,1943-03-30T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q550892,Alexander Koldunov,Communist Party of the Soviet Union,,,,Air Force major general,1957-12-07T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q550892,Alexander Koldunov,Communist Party of the Soviet Union,,,,colonel,1952-12-30T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q550892,Alexander Koldunov,Communist Party of the Soviet Union,,,,senior lieutenant,1944-02-15T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q550892,Alexander Koldunov,Communist Party of the Soviet Union,,,,major,1945-04-09T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q319470,Ivan Kozhedub,Communist Party of the Soviet Union,,,,captain,1944-04-24T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q319470,Ivan Kozhedub,Communist Party of the Soviet Union,,,,Air Force major general,1953-08-03T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q319470,Ivan Kozhedub,Communist Party of the Soviet Union,,,,colonel,1951-01-03T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q319470,Ivan Kozhedub,Communist Party of the Soviet Union,,,,major,1944-11-19T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q319470,Ivan Kozhedub,Communist Party of the Soviet Union,,,,Senior sergeant,1942-02-23T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q319470,Ivan Kozhedub,Communist Party of the Soviet Union,,,,senior lieutenant,1943-11-10T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q319470,Ivan Kozhedub,Communist Party of the Soviet Union,,,,sergeant,1941-02-01T00:00:00Z,0.0,,,corporal
+http://www.wikidata.org/entity/Q319470,Ivan Kozhedub,Communist Party of the Soviet Union,,,,lieutenant,1943-08-05T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q319470,Ivan Kozhedub,Communist Party of the Soviet Union,,,,podpolkovnik,1949-01-20T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q242474,Semyon Budyonny,Communist Party of the Soviet Union,,,,Marshal of the Soviet Union,1935-09-22T00:00:00Z,0.0,,Generalissimus of the Soviet Union,General of the army
+http://www.wikidata.org/entity/Q170842,Sergei Korolev,Communist Party of the Soviet Union,,,,colonel,1945-01-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q185024,Ivan Konev,Communist Party of the Soviet Union,,,,Komandarm 2nd rank,1939-02-08T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q185024,Ivan Konev,Communist Party of the Soviet Union,,,,Marshal of the Soviet Union,1944-02-20T00:00:00Z,0.0,,Generalissimus of the Soviet Union,General of the army
+http://www.wikidata.org/entity/Q185024,Ivan Konev,Communist Party of the Soviet Union,,,,colonel general,1941-09-11T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q185024,Ivan Konev,Communist Party of the Soviet Union,,,,General of the army,1943-08-26T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q185024,Ivan Konev,Communist Party of the Soviet Union,,,,lieutenant general,1940-06-04T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q185024,Ivan Konev,Communist Party of the Soviet Union,,,,Comcor,1938-02-22T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q185024,Ivan Konev,Communist Party of the Soviet Union,,,,Komdiv,1935-11-26T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4064997,Mikhail Borisoviсh Anashkin,Communist Party of the Soviet Union,,,,colonel,1942-01-09T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4064997,Mikhail Borisoviсh Anashkin,Communist Party of the Soviet Union,,,,major general,1943-01-15T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q4064997,Mikhail Borisoviсh Anashkin,Communist Party of the Soviet Union,,,,lieutenant general,1945-07-11T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q523332,Yevgeny Savitsky,Communist Party of the Soviet Union,,,,major,1941-01-01T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q523332,Yevgeny Savitsky,Communist Party of the Soviet Union,,,,lieutenant,1936-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q523332,Yevgeny Savitsky,Communist Party of the Soviet Union,,,,podpolkovnik,1941-11-06T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q523332,Yevgeny Savitsky,Communist Party of the Soviet Union,,,,Air Force major general,1943-03-17T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q523332,Yevgeny Savitsky,Communist Party of the Soviet Union,,,,Air Force lieutenant general,1944-05-11T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q523332,Yevgeny Savitsky,Communist Party of the Soviet Union,,,,captain,1938-01-01T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q523332,Yevgeny Savitsky,Communist Party of the Soviet Union,,,,senior lieutenant,1937-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q523332,Yevgeny Savitsky,Communist Party of the Soviet Union,,,,colonel,1942-07-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q523332,Yevgeny Savitsky,Communist Party of the Soviet Union,,,,Air Force colonel general,1955-08-08T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q211139,Mitrofan Krasnolutskiy,Communist Party of the Soviet Union,,,,major general,1955-08-08T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q321206,Pavel Kutakhov,Communist Party of the Soviet Union,,,,captain,1942-02-02T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q321206,Pavel Kutakhov,Communist Party of the Soviet Union,,,,lieutenant,1939-09-22T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q321206,Pavel Kutakhov,Communist Party of the Soviet Union,,,,senior lieutenant,1941-10-14T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q321206,Pavel Kutakhov,Communist Party of the Soviet Union,,,,major,1942-06-29T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q321206,Pavel Kutakhov,Communist Party of the Soviet Union,,,,podpolkovnik,1944-10-24T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q321206,Pavel Kutakhov,Communist Party of the Soviet Union,,,,colonel,1950-06-27T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q321206,Pavel Kutakhov,Communist Party of the Soviet Union,,,,Air Force major general,1954-05-31T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4056834,Nikolay Ageyev,Communist Party of the Soviet Union,,,,senior lieutenant,1945-07-20T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4056834,Nikolay Ageyev,Communist Party of the Soviet Union,,,,podpolkovnik,1957-06-20T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4056834,Nikolay Ageyev,Communist Party of the Soviet Union,,,,major,1951-11-21T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4056834,Nikolay Ageyev,Communist Party of the Soviet Union,,,,captain,1948-07-28T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4056834,Nikolay Ageyev,Communist Party of the Soviet Union,,,,Unterleutnant,1943-08-26T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4056834,Nikolay Ageyev,Communist Party of the Soviet Union,,,,lieutenant,1944-04-27T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q83855,Vasili Blokhin,Communist Party of the Soviet Union,,,,major general,1945-07-09T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q157594,Vasily Chuikov,Communist Party of the Soviet Union,,,,Komdiv,1938-07-23T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q157594,Vasily Chuikov,Communist Party of the Soviet Union,,,,General of the Army,1948-11-12T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q157594,Vasily Chuikov,Communist Party of the Soviet Union,,,,lieutenant general,1940-06-04T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q157594,Vasily Chuikov,Communist Party of the Soviet Union,,,,Marshal of the Soviet Union,1955-03-11T00:00:00Z,0.0,,Generalissimus of the Soviet Union,General of the army
+http://www.wikidata.org/entity/Q157594,Vasily Chuikov,Communist Party of the Soviet Union,,,,Comcor,1939-02-09T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q157594,Vasily Chuikov,Communist Party of the Soviet Union,,,,kombrig,1935-11-20T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q157594,Vasily Chuikov,Communist Party of the Soviet Union,,,,colonel general,1943-10-27T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q4057939,Vasily Adonkin,Communist Party of the Soviet Union,,,,captain,1942-06-05T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q342462,Nikolay Gerasimovich Kuznetsov,Communist Party of the Soviet Union,,,,vice admiral,1956-01-01T00:00:00Z,1.0,,admiral,counter admiral
+http://www.wikidata.org/entity/Q342462,Nikolay Gerasimovich Kuznetsov,Communist Party of the Soviet Union,,,,Admiral of the fleet (USSR),1953-05-11T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q342462,Nikolay Gerasimovich Kuznetsov,Communist Party of the Soviet Union,,,,Admiral of the fleet (USSR),1944-05-31T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q564852,Semyon Kozak,Communist Party of the Soviet Union,,,,lieutenant general,1945-04-19T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q122658,Vasiliy Rakov,Communist Party of the Soviet Union,,,,Air Force major general,1958-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q670030,Issa Pliyev,Communist Party of the Soviet Union,,,,major general,1941-09-11T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q670030,Issa Pliyev,Communist Party of the Soviet Union,,,,colonel general,1945-05-29T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q670030,Issa Pliyev,Communist Party of the Soviet Union,,,,lieutenant general,1943-10-29T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q670030,Issa Pliyev,Communist Party of the Soviet Union,,,,colonel,1939-01-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q670030,Issa Pliyev,Communist Party of the Soviet Union,,,,captain,1936-01-01T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4055550,Pyotr Avdeyenko,Communist Party of the Soviet Union,,,,major general,1943-02-04T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q4056583,Filipp Agaltsov,Communist Party of the Soviet Union,,,,Regimental Commissioner,1935-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4056583,Filipp Agaltsov,Communist Party of the Soviet Union,,,,Air Force colonel general,1955-08-08T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4056583,Filipp Agaltsov,Communist Party of the Soviet Union,,,,Air Force lieutenant general,1946-03-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4056583,Filipp Agaltsov,Communist Party of the Soviet Union,,,,colonel,1940-01-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4056583,Filipp Agaltsov,Communist Party of the Soviet Union,,,,Air Force major general,1943-05-28T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q729274,Dmitri Shepilov,Communist Party of the Soviet Union,,,,major general,1945-01-01T00:00:00Z,1.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q653173,Vasily Kazakov,Communist Party of the Soviet Union,,,,Marshal of the branch,1955-01-01T00:00:00Z,1.0,,,
+http://www.wikidata.org/entity/Q1968256,Stepan Shutov,Communist Party of the Soviet Union,,,,podpolkovnik,1942-10-29T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q1968256,Stepan Shutov,Communist Party of the Soviet Union,,,,colonel,1944-02-21T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q1968256,Stepan Shutov,Communist Party of the Soviet Union,,,,captain,1937-08-27T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q1968256,Stepan Shutov,Communist Party of the Soviet Union,,,,major,1941-12-01T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q444979,Ivan Danilovich Chernyakhovsky,Communist Party of the Soviet Union,,,,colonel,1941-04-08T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q444979,Ivan Danilovich Chernyakhovsky,Communist Party of the Soviet Union,,,,lieutenant general,1943-02-14T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q444979,Ivan Danilovich Chernyakhovsky,Communist Party of the Soviet Union,,,,General of the army,1944-06-26T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q444979,Ivan Danilovich Chernyakhovsky,Communist Party of the Soviet Union,,,,colonel general,1944-03-05T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q444979,Ivan Danilovich Chernyakhovsky,Communist Party of the Soviet Union,,,,major general,1942-05-03T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q4067096,Pyotr Antipov,Communist Party of the Soviet Union,,,,colonel,1955-06-13T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4067096,Pyotr Antipov,Communist Party of the Soviet Union,,,,senior lieutenant,1944-06-28T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4067096,Pyotr Antipov,Communist Party of the Soviet Union,,,,major,1948-11-12T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4067096,Pyotr Antipov,Communist Party of the Soviet Union,,,,captain,1945-01-11T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4067096,Pyotr Antipov,Communist Party of the Soviet Union,,,,major general,1958-02-18T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q4067096,Pyotr Antipov,Communist Party of the Soviet Union,,,,lieutenant,1942-03-15T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4067096,Pyotr Antipov,Communist Party of the Soviet Union,,,,podpolkovnik,1951-11-05T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4066884,Anatoliy Andreyevich Anpilov,Communist Party of the Soviet Union,,,,colonel,1951-08-23T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4066884,Anatoliy Andreyevich Anpilov,Communist Party of the Soviet Union,,,,major,1944-10-23T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4066884,Anatoliy Andreyevich Anpilov,Communist Party of the Soviet Union,,,,Air Force major general,1959-05-25T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4066884,Anatoliy Andreyevich Anpilov,Communist Party of the Soviet Union,,,,podpolkovnik,1948-05-13T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4066884,Anatoliy Andreyevich Anpilov,Communist Party of the Soviet Union,,,,captain,1942-04-09T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4066884,Anatoliy Andreyevich Anpilov,Communist Party of the Soviet Union,,,,senior lieutenant,1940-07-26T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4066884,Anatoliy Andreyevich Anpilov,Communist Party of the Soviet Union,,,,lieutenant,1936-11-05T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4090400,Ivan Boyko,Communist Party of the Soviet Union,,,,lieutenant,1935-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4090400,Ivan Boyko,Communist Party of the Soviet Union,,,,senior lieutenant,1937-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4090400,Ivan Boyko,Communist Party of the Soviet Union,,,,colonel,1944-08-02T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4090400,Ivan Boyko,Communist Party of the Soviet Union,,,,major,1942-05-24T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4090400,Ivan Boyko,Communist Party of the Soviet Union,,,,podpolkovnik,1943-01-01T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4090400,Ivan Boyko,Communist Party of the Soviet Union,,,,captain,1941-09-01T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q364451,Georgy Beregovoy,Communist Party of the Soviet Union,,,,captain,1944-05-14T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q364451,Georgy Beregovoy,Communist Party of the Soviet Union,,,,colonel,1956-04-02T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q364451,Georgy Beregovoy,Communist Party of the Soviet Union,,,,podpolkovnik,1949-10-15T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q364451,Georgy Beregovoy,Communist Party of the Soviet Union,,,,senior lieutenant,1943-10-10T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q364451,Georgy Beregovoy,Communist Party of the Soviet Union,,,,sergeant,1941-06-01T00:00:00Z,0.0,,,corporal
+http://www.wikidata.org/entity/Q364451,Georgy Beregovoy,Communist Party of the Soviet Union,,,,major,1945-06-08T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q364451,Georgy Beregovoy,Communist Party of the Soviet Union,,,,lieutenant,1943-05-05T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1981239,Alexander Molodchy,Communist Party of the Soviet Union,,,,senior lieutenant,1941-09-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1981239,Alexander Molodchy,Communist Party of the Soviet Union,,,,colonel,1949-07-09T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q1981239,Alexander Molodchy,Communist Party of the Soviet Union,,,,major,1942-12-25T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q1981239,Alexander Molodchy,Communist Party of the Soviet Union,,,,sub-lieutenant,1938-11-22T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1981239,Alexander Molodchy,Communist Party of the Soviet Union,,,,captain,1942-03-18T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q1981239,Alexander Molodchy,Communist Party of the Soviet Union,,,,Air Force major general,1955-08-08T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1981239,Alexander Molodchy,Communist Party of the Soviet Union,,,,podpolkovnik,1944-10-25T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4095811,Anatoli Brandys,Communist Party of the Soviet Union,,,,lieutenant,1944-04-04T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4095811,Anatoli Brandys,Communist Party of the Soviet Union,,,,captain,1945-01-27T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4095811,Anatoli Brandys,Communist Party of the Soviet Union,,,,colonel,1956-01-04T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4095811,Anatoli Brandys,Communist Party of the Soviet Union,,,,major,1949-01-20T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4095811,Anatoli Brandys,Communist Party of the Soviet Union,,,,sub-lieutenant,1943-07-19T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4095811,Anatoli Brandys,Communist Party of the Soviet Union,,,,podpolkovnik,1952-04-14T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4095811,Anatoli Brandys,Communist Party of the Soviet Union,,,,senior lieutenant,1944-08-16T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1968671,Vasily Glazunov,Communist Party of the Soviet Union,,,,lieutenant general,1944-03-19T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q4062992,Alexander Altunin,Communist Party of the Soviet Union,,,,lieutenant,1941-06-10T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4062992,Alexander Altunin,Communist Party of the Soviet Union,,,,major general,1960-05-07T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q4062992,Alexander Altunin,Communist Party of the Soviet Union,,,,colonel,1953-10-12T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4062992,Alexander Altunin,Communist Party of the Soviet Union,,,,captain,1944-06-29T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4062992,Alexander Altunin,Communist Party of the Soviet Union,,,,major,1944-09-28T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4062992,Alexander Altunin,Communist Party of the Soviet Union,,,,senior lieutenant,1943-04-07T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4062992,Alexander Altunin,Communist Party of the Soviet Union,,,,podpolkovnik,1950-02-21T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q1966944,Timofey Khryukin,Communist Party of the Soviet Union,,,,kombrig,1940-05-04T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1966944,Timofey Khryukin,Communist Party of the Soviet Union,,,,lieutenant,1935-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1966944,Timofey Khryukin,Communist Party of the Soviet Union,,,,Air Force colonel general,1944-05-11T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1966944,Timofey Khryukin,Communist Party of the Soviet Union,,,,Air Force lieutenant general,1943-03-17T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1966944,Timofey Khryukin,Communist Party of the Soviet Union,,,,senior lieutenant,1937-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1966944,Timofey Khryukin,Communist Party of the Soviet Union,,,,Air Force major general,1940-06-04T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1966944,Timofey Khryukin,Communist Party of the Soviet Union,,,,captain,1937-01-01T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q1966944,Timofey Khryukin,Communist Party of the Soviet Union,,,,colonel,1938-09-26T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q927979,Nikolai Kamanin,Communist Party of the Soviet Union,,,,Air Force lieutenant general,1945-04-20T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q927979,Nikolai Kamanin,Communist Party of the Soviet Union,,,,Air Force major general,1943-03-17T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q927979,Nikolai Kamanin,Communist Party of the Soviet Union,,,,colonel,1938-02-21T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q765165,Leonid Brezhnev,Communist Party of the Soviet Union,,,,colonel,1942-12-15T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q765165,Leonid Brezhnev,Communist Party of the Soviet Union,,,,major general,1944-11-02T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q765165,Leonid Brezhnev,Communist Party of the Soviet Union,,,,Brigadier Commissioner,1941-06-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q765165,Leonid Brezhnev,Communist Party of the Soviet Union,,,,lieutenant general,1953-08-04T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q4061667,Ivan Alyaksyeyew,Communist Party of the Soviet Union,,,,major,1941-08-19T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4061667,Ivan Alyaksyeyew,Communist Party of the Soviet Union,,,,colonel,1942-09-18T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4061667,Ivan Alyaksyeyew,Communist Party of the Soviet Union,,,,podpolkovnik,1942-01-16T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4063155,Ivan Alfyorov,Communist Party of the Soviet Union,,,,lieutenant general,1944-02-22T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q4063155,Ivan Alfyorov,Communist Party of the Soviet Union,,,,major general,1942-12-31T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q707715,Mitrofan Nedelin,Communist Party of the Soviet Union,,,,Chief Marshal,1959-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q707715,Mitrofan Nedelin,Communist Party of the Soviet Union,,,,colonel general,1944-04-03T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q707715,Mitrofan Nedelin,Communist Party of the Soviet Union,,,,lieutenant general,1943-09-25T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q707715,Mitrofan Nedelin,Communist Party of the Soviet Union,,,,major general,1942-05-13T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q707715,Mitrofan Nedelin,Communist Party of the Soviet Union,,,,Marshal of the branch,1953-08-04T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q370815,Sergey Gorshkov,Communist Party of the Soviet Union,,,,kontr-admiral,1941-09-16T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q370815,Sergey Gorshkov,Communist Party of the Soviet Union,,,,vice admiral,1945-09-25T00:00:00Z,0.0,,admiral,counter admiral
+http://www.wikidata.org/entity/Q370815,Sergey Gorshkov,Communist Party of the Soviet Union,,,,captain 2nd rank,1939-01-01T00:00:00Z,0.0,,captain 1st rank,Captain 3rd rank
+http://www.wikidata.org/entity/Q4066142,Vladimir Andryushchenko,Communist Party of the Soviet Union,,,,lieutenant,1939-09-04T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4066142,Vladimir Andryushchenko,Communist Party of the Soviet Union,,,,captain,1942-07-17T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4066142,Vladimir Andryushchenko,Communist Party of the Soviet Union,,,,major general,1957-08-27T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q4066142,Vladimir Andryushchenko,Communist Party of the Soviet Union,,,,senior lieutenant,1941-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4066142,Vladimir Andryushchenko,Communist Party of the Soviet Union,,,,major,1944-01-07T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4066142,Vladimir Andryushchenko,Communist Party of the Soviet Union,,,,colonel,1951-01-03T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4066142,Vladimir Andryushchenko,Communist Party of the Soviet Union,,,,podpolkovnik,1945-03-16T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q456714,Vladimir Ilyushin,Communist Party of the Soviet Union,,,,podpolkovnik,1960-01-05T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q456714,Vladimir Ilyushin,Communist Party of the Soviet Union,,,,major,1956-12-17T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q456714,Vladimir Ilyushin,Communist Party of the Soviet Union,,,,captain,1953-11-30T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4066148,Sergey Andryushchenko,Communist Party of the Soviet Union,,,,captain,1938-11-05T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4066148,Sergey Andryushchenko,Communist Party of the Soviet Union,,,,podpolkovnik,1942-11-17T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4066148,Sergey Andryushchenko,Communist Party of the Soviet Union,,,,major general,1953-08-03T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q4066148,Sergey Andryushchenko,Communist Party of the Soviet Union,,,,lieutenant general,1959-05-25T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q4066148,Sergey Andryushchenko,Communist Party of the Soviet Union,,,,major,1942-02-17T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4066148,Sergey Andryushchenko,Communist Party of the Soviet Union,,,,colonel,1943-11-18T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q444566,Polina Osipenko,Communist Party of the Soviet Union,,,,senior lieutenant,1938-04-29T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q444566,Polina Osipenko,Communist Party of the Soviet Union,,,,captain,1938-07-20T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q444566,Polina Osipenko,Communist Party of the Soviet Union,,,,major,1939-02-01T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q713943,Ivan Papanin,Communist Party of the Soviet Union,,,,Contraalmirante,1943-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4100946,Nikolay Bykov,Communist Party of the Soviet Union,,,,captain,1942-01-01T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q382059,Afanasy Beloborodov,Communist Party of the Soviet Union,,,,senior lieutenant,1936-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q382059,Afanasy Beloborodov,Communist Party of the Soviet Union,,,,colonel general,1945-05-05T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q382059,Afanasy Beloborodov,Communist Party of the Soviet Union,,,,major general,1941-11-26T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q382059,Afanasy Beloborodov,Communist Party of the Soviet Union,,,,lieutenant general,1944-02-22T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q932435,Stepan Suprun,Communist Party of the Soviet Union,,,,podpolkovnik,1940-01-01T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q924999,Grigory Kravchenko,Communist Party of the Soviet Union,,,,lieutenant,1936-03-20T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q924999,Grigory Kravchenko,Communist Party of the Soviet Union,,,,Air Force lieutenant general,1940-06-04T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q924999,Grigory Kravchenko,Communist Party of the Soviet Union,,,,senior lieutenant,1938-02-19T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q924999,Grigory Kravchenko,Communist Party of the Soviet Union,,,,kombrig,1940-02-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q924999,Grigory Kravchenko,Communist Party of the Soviet Union,,,,Komdiv,1940-04-11T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q924999,Grigory Kravchenko,Communist Party of the Soviet Union,,,,colonel,1939-11-29T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q924999,Grigory Kravchenko,Communist Party of the Soviet Union,,,,major,1938-09-26T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q2832540,Alexander Yefimov,Communist Party of the Soviet Union,,,,colonel,1955-08-04T00:00:00Z,1.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q2832540,Alexander Yefimov,Communist Party of the Soviet Union,,,,podpolkovnik,1951-06-23T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q2832540,Alexander Yefimov,Communist Party of the Soviet Union,,,,sub-lieutenant,1943-02-12T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q2832540,Alexander Yefimov,Communist Party of the Soviet Union,,,,Senior sergeant,1942-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q2832540,Alexander Yefimov,Communist Party of the Soviet Union,,,,sergeant,1942-06-01T00:00:00Z,0.0,,,corporal
+http://www.wikidata.org/entity/Q2832540,Alexander Yefimov,Communist Party of the Soviet Union,,,,senior lieutenant,1943-09-07T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q2832540,Alexander Yefimov,Communist Party of the Soviet Union,,,,captain,1944-08-11T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q2832540,Alexander Yefimov,Communist Party of the Soviet Union,,,,Air Force major general,1960-05-07T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q2832540,Alexander Yefimov,Communist Party of the Soviet Union,,,,lieutenant,1943-06-24T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q2832540,Alexander Yefimov,Communist Party of the Soviet Union,,,,major,1948-08-14T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q2833725,Alexander Gorbatov,Communist Party of the Soviet Union,,,,Commandant,1955-01-01T00:00:00Z,1.0,,,
+http://www.wikidata.org/entity/Q4070780,Vasili Sergeyevich Arkhipov,Communist Party of the Soviet Union,,,,podpolkovnik,1942-02-20T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4070780,Vasili Sergeyevich Arkhipov,Communist Party of the Soviet Union,,,,colonel,1942-07-23T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4070780,Vasili Sergeyevich Arkhipov,Communist Party of the Soviet Union,,,,captain,1939-03-28T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4070780,Vasili Sergeyevich Arkhipov,Communist Party of the Soviet Union,,,,major,1941-08-26T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q2027889,Grigoriy Rechkalov,Communist Party of the Soviet Union,,,,Air Force major general,1957-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q446845,Mikhail Lukin,Communist Party of the Soviet Union,,,,lieutenant general,1940-01-01T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q2621021,Sergei Kruglov,Communist Party of the Soviet Union,,,,colonel general,1945-01-01T00:00:00Z,1.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q704623,Arseny Vorozheykin,Communist Party of the Soviet Union,,,,Air Force major general,1954-05-31T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q2264350,Dmitri Glinka,Communist Party of the Soviet Union,,,,colonel,1951-01-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q734851,Ivan Panfilov,Communist Party of the Soviet Union,,,,major general,1940-06-04T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q1150789,Nikolai Gulayev,Communist Party of the Soviet Union,,,,captain,1944-05-10T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q1150789,Nikolai Gulayev,Communist Party of the Soviet Union,,,,lieutenant,1942-08-16T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1150789,Nikolai Gulayev,Communist Party of the Soviet Union,,,,colonel,1952-12-30T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q1150789,Nikolai Gulayev,Communist Party of the Soviet Union,,,,senior lieutenant,1943-06-07T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1150789,Nikolai Gulayev,Communist Party of the Soviet Union,,,,sub-lieutenant,1941-01-06T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1150789,Nikolai Gulayev,Communist Party of the Soviet Union,,,,major,1945-04-30T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q1150789,Nikolai Gulayev,Communist Party of the Soviet Union,,,,podpolkovnik,1949-05-06T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q1150789,Nikolai Gulayev,Communist Party of the Soviet Union,,,,Air Force major general,1959-05-25T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q3013503,Ivan Fesin,Communist Party of the Soviet Union,,,,major general,1943-11-17T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q3013503,Ivan Fesin,Communist Party of the Soviet Union,,,,podpolkovnik,1942-04-11T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q3013503,Ivan Fesin,Communist Party of the Soviet Union,,,,major,1941-01-21T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q3013503,Ivan Fesin,Communist Party of the Soviet Union,,,,colonel,1943-02-14T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q3013503,Ivan Fesin,Communist Party of the Soviet Union,,,,captain,1936-03-28T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q3156140,Ivan Lyudnikov,Communist Party of the Soviet Union,,,,colonel general,1945-05-05T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q3156140,Ivan Lyudnikov,Communist Party of the Soviet Union,,,,major general,1943-01-27T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q3156140,Ivan Lyudnikov,Communist Party of the Soviet Union,,,,lieutenant general,1943-09-25T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q1707264,Hazi Aslanov,Communist Party of the Soviet Union,,,,major,1940-01-01T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q1707264,Hazi Aslanov,Communist Party of the Soviet Union,,,,podpolkovnik,1942-01-01T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q1707264,Hazi Aslanov,Communist Party of the Soviet Union,,,,colonel,1943-01-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q2363310,Yakov Kreizer,Communist Party of the Soviet Union,,,,major general,1941-08-07T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q2363310,Yakov Kreizer,Communist Party of the Soviet Union,,,,lieutenant general,1943-02-14T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q2363310,Yakov Kreizer,Communist Party of the Soviet Union,,,,major,1935-12-24T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q2363310,Yakov Kreizer,Communist Party of the Soviet Union,,,,colonel general,1945-07-02T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q2363310,Yakov Kreizer,Communist Party of the Soviet Union,,,,colonel,1938-11-29T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4139767,Boris Glinka,Communist Party of the Soviet Union,,,,senior lieutenant,1943-07-26T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4139767,Boris Glinka,Communist Party of the Soviet Union,,,,lieutenant,1942-11-30T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4139767,Boris Glinka,Communist Party of the Soviet Union,,,,major,1944-03-25T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4139767,Boris Glinka,Communist Party of the Soviet Union,,,,sub-lieutenant,1940-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4139767,Boris Glinka,Communist Party of the Soviet Union,,,,captain,1943-11-01T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4139767,Boris Glinka,Communist Party of the Soviet Union,,,,colonel,1951-11-05T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4139767,Boris Glinka,Communist Party of the Soviet Union,,,,podpolkovnik,1948-05-01T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q1332642,Pavel Rybalko,Communist Party of the Soviet Union,,,,kombrig,1939-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1332642,Pavel Rybalko,Communist Party of the Soviet Union,,,,colonel,1935-01-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q1332642,Pavel Rybalko,Communist Party of the Soviet Union,,,,Marshal of the branch,1945-06-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1332642,Pavel Rybalko,Communist Party of the Soviet Union,,,,major general,1940-06-04T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q1332642,Pavel Rybalko,Communist Party of the Soviet Union,,,,lieutenant general,1943-01-18T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q1332642,Pavel Rybalko,Communist Party of the Soviet Union,,,,colonel general,1943-12-30T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q4331606,Michael Odintsov,Communist Party of the Soviet Union,,,,lieutenant,1942-07-31T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4331606,Michael Odintsov,Communist Party of the Soviet Union,,,,Air Force major general,1957-08-27T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4331606,Michael Odintsov,Communist Party of the Soviet Union,,,,major,1944-08-05T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4331606,Michael Odintsov,Communist Party of the Soviet Union,,,,podpolkovnik,1949-04-05T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4331606,Michael Odintsov,Communist Party of the Soviet Union,,,,senior lieutenant,1943-08-05T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4331606,Michael Odintsov,Communist Party of the Soviet Union,,,,sub-lieutenant,1940-10-10T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4331606,Michael Odintsov,Communist Party of the Soviet Union,,,,captain,1943-12-27T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q1197559,Nikolay Voronov,Communist Party of the Soviet Union,,,,kombrig,1935-11-11T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1197559,Nikolay Voronov,Communist Party of the Soviet Union,,,,Komandarm 2nd rank,1940-03-22T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1197559,Nikolay Voronov,Communist Party of the Soviet Union,,,,Comcor,1937-06-20T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1197559,Nikolay Voronov,Communist Party of the Soviet Union,,,,Marshal of the branch,1943-01-10T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1197559,Nikolay Voronov,Communist Party of the Soviet Union,,,,Chief Marshal,1944-02-21T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q2468507,Pavel Batov,Communist Party of the Soviet Union,,,,General of the army,1955-03-10T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q2468507,Pavel Batov,Communist Party of the Soviet Union,,,,Komdiv,1939-11-04T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q2468507,Pavel Batov,Communist Party of the Soviet Union,,,,colonel,1936-01-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q2468507,Pavel Batov,Communist Party of the Soviet Union,,,,kombrig,1937-08-08T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q2468507,Pavel Batov,Communist Party of the Soviet Union,,,,colonel general,1944-06-29T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q2468507,Pavel Batov,Communist Party of the Soviet Union,,,,lieutenant general,1940-06-04T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q4184375,Vasily Aleksandrovich Zaitsev,Communist Party of the Soviet Union,,,,colonel,1946-01-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q2914828,Yakov Smushkevich,Communist Party of the Soviet Union,,,,Air Force lieutenant general,1940-06-04T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1957703,Aleksei Alelyukhin,Communist Party of the Soviet Union,,,,senior lieutenant,1942-10-19T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1957703,Aleksei Alelyukhin,Communist Party of the Soviet Union,,,,major,1944-03-25T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q1957703,Aleksei Alelyukhin,Communist Party of the Soviet Union,,,,sub-lieutenant,1939-11-05T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1957703,Aleksei Alelyukhin,Communist Party of the Soviet Union,,,,podpolkovnik,1948-04-13T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q1957703,Aleksei Alelyukhin,Communist Party of the Soviet Union,,,,lieutenant,1941-09-08T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1957703,Aleksei Alelyukhin,Communist Party of the Soviet Union,,,,captain,1943-03-22T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q1957703,Aleksei Alelyukhin,Communist Party of the Soviet Union,,,,colonel,1950-10-20T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q1442217,Sergey Denisov,Communist Party of the Soviet Union,,,,Air Force lieutenant general,1940-06-04T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1442217,Sergey Denisov,Communist Party of the Soviet Union,,,,major,1937-01-01T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q1442217,Sergey Denisov,Communist Party of the Soviet Union,,,,colonel,1937-01-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q1442217,Sergey Denisov,Communist Party of the Soviet Union,,,,Komdiv,1939-08-08T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1442217,Sergey Denisov,Communist Party of the Soviet Union,,,,kombrig,1938-02-22T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1442217,Sergey Denisov,Communist Party of the Soviet Union,,,,senior lieutenant,1936-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q1442217,Sergey Denisov,Communist Party of the Soviet Union,,,,captain,1937-01-01T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q3498539,Vladimir Alexeyev,Communist Party of the Soviet Union,,,,kontr-admiral,1951-01-27T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q3498539,Vladimir Alexeyev,Communist Party of the Soviet Union,,,,senior lieutenant,1939-10-03T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q3498539,Vladimir Alexeyev,Communist Party of the Soviet Union,,,,captain lieutenant,1941-11-06T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q3498539,Vladimir Alexeyev,Communist Party of the Soviet Union,,,,captain 2nd rank,1944-07-20T00:00:00Z,0.0,,captain 1st rank,Captain 3rd rank
+http://www.wikidata.org/entity/Q3498539,Vladimir Alexeyev,Communist Party of the Soviet Union,,,,Captain 3rd rank,1944-01-03T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q3498539,Vladimir Alexeyev,Communist Party of the Soviet Union,,,,lieutenant,1926-03-16T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q3498539,Vladimir Alexeyev,Communist Party of the Soviet Union,,,,captain 1st rank,1947-11-10T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4125177,Ivan Vorobyov,Communist Party of the Soviet Union,,,,colonel,1956-03-29T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4125177,Ivan Vorobyov,Communist Party of the Soviet Union,,,,sergeant,1941-07-01T00:00:00Z,0.0,,,corporal
+http://www.wikidata.org/entity/Q3918521,Mikhail Vasilevich Avdeyev,Communist Party of the Soviet Union,,,,colonel,1944-09-10T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q3918521,Mikhail Vasilevich Avdeyev,Communist Party of the Soviet Union,,,,major,1942-11-19T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q3918521,Mikhail Vasilevich Avdeyev,Communist Party of the Soviet Union,,,,lieutenant,1937-05-24T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q3918521,Mikhail Vasilevich Avdeyev,Communist Party of the Soviet Union,,,,senior lieutenant,1939-11-20T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q3918521,Mikhail Vasilevich Avdeyev,Communist Party of the Soviet Union,,,,Air Force major general,1957-04-06T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q3918521,Mikhail Vasilevich Avdeyev,Communist Party of the Soviet Union,,,,captain,1941-12-07T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q3918521,Mikhail Vasilevich Avdeyev,Communist Party of the Soviet Union,,,,podpolkovnik,1943-04-26T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4229548,Ivan Komzin,Communist Party of the Soviet Union,,,,major general,1945-04-10T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q2707811,Dmitry Lelyushenko,Communist Party of the Soviet Union,,,,kombrig,1940-04-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q2707811,Dmitry Lelyushenko,Communist Party of the Soviet Union,,,,major general,1940-06-04T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q2707811,Dmitry Lelyushenko,Communist Party of the Soviet Union,,,,General of the army,1959-05-08T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q2707811,Dmitry Lelyushenko,Communist Party of the Soviet Union,,,,lieutenant general,1942-01-02T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q2707811,Dmitry Lelyushenko,Communist Party of the Soviet Union,,,,colonel general,1944-05-11T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q2707811,Dmitry Lelyushenko,Communist Party of the Soviet Union,,,,colonel,1938-01-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4141774,Pavel Golovachyov,Communist Party of the Soviet Union,,,,Air Force major general,1957-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q982083,Vladimir Kokkinaki,Communist Party of the Soviet Union,,,,Air Force major general,1943-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4224222,Aleksandr Klubov,Communist Party of the Soviet Union,,,,captain,1944-01-01T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4224222,Aleksandr Klubov,Communist Party of the Soviet Union,,,,sub-lieutenant,1940-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q2497621,David Dragunsky,Communist Party of the Soviet Union,,,,colonel,1944-04-25T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q2497621,David Dragunsky,Communist Party of the Soviet Union,,,,podpolkovnik,1942-10-06T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q2497621,David Dragunsky,Communist Party of the Soviet Union,,,,captain,1941-07-01T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q2497621,David Dragunsky,Communist Party of the Soviet Union,,,,lieutenant,1936-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q2497621,David Dragunsky,Communist Party of the Soviet Union,,,,senior lieutenant,1938-11-04T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q2497621,David Dragunsky,Communist Party of the Soviet Union,,,,major,1942-01-01T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q2682193,Vasily Senko,Communist Party of the Soviet Union,,,,Unterleutnant,1941-06-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q2469682,Andrey Kravchenko,Communist Party of the Soviet Union,,,,major,1936-01-01T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q2469682,Andrey Kravchenko,Communist Party of the Soviet Union,,,,colonel,1939-01-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q2912419,Nikolai Chelnokov,Communist Party of the Soviet Union,,,,Air Force major general,1949-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4182966,Avraami Zavenyagin,Communist Party of the Soviet Union,,,,lieutenant general,1945-07-09T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q4338013,Mikoła Aslikoŭski,Communist Party of the Soviet Union,,,,lieutenant general,1943-11-13T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q4177482,Vasily Yefremov,Communist Party of the Soviet Union,,,,podpolkovnik,1948-01-01T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q981449,Ivan Isakov,Communist Party of the Soviet Union,,,,Admiral of the Fleet of the Soviet Union,1955-03-03T00:00:00Z,0.0,,Generalissimus of the Soviet Union,Admiral of the fleet (USSR)
+http://www.wikidata.org/entity/Q2392075,Oleksiy Fedorov,Communist Party of the Soviet Union,,,,major general,1943-04-01T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q4175336,Amo Sergeevich Elyan,Communist Party of the Soviet Union,,,,major general,1944-11-18T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q2622084,Sydir Kovpak,Communist Party of the Soviet Union,,,,major general,1943-04-01T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q3913234,Ivan Polbin,Communist Party of the Soviet Union,,,,Air Force major general,1943-10-25T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q107094326,Michail Michailovič Dagajev,Communist Party of the Soviet Union,,,,major,1945-01-01T00:00:00Z,1.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4243120,Vladimir Kryukov,Communist Party of the Soviet Union,,,,major general,1940-06-04T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q4243120,Vladimir Kryukov,Communist Party of the Soviet Union,,,,lieutenant general,1943-10-16T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q4372281,Vitaly Popkov,Communist Party of the Soviet Union,,,,colonel,1953-12-20T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4372281,Vitaly Popkov,Communist Party of the Soviet Union,,,,major,1948-08-14T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4372281,Vitaly Popkov,Communist Party of the Soviet Union,,,,podpolkovnik,1951-06-13T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4372281,Vitaly Popkov,Communist Party of the Soviet Union,,,,Air Force major general,1958-02-18T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4372281,Vitaly Popkov,Communist Party of the Soviet Union,,,,sub-lieutenant,1943-03-10T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4372281,Vitaly Popkov,Communist Party of the Soviet Union,,,,senior lieutenant,1943-11-13T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4372281,Vitaly Popkov,Communist Party of the Soviet Union,,,,sergeant,1941-09-01T00:00:00Z,0.0,,,corporal
+http://www.wikidata.org/entity/Q4372281,Vitaly Popkov,Communist Party of the Soviet Union,,,,lieutenant,1943-08-04T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4372281,Vitaly Popkov,Communist Party of the Soviet Union,,,,captain,1944-06-30T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q21096840,Vladimir Drozdov,Communist Party of the Soviet Union,,,,kontr-admiral,1951-11-03T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4402591,Vasily Ryazanov,Communist Party of the Soviet Union,,,,Air Force lieutenant general,1943-03-17T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4402591,Vasily Ryazanov,Communist Party of the Soviet Union,,,,Air Force major general,1942-03-27T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q60828477,Aleksey Shchelakovskiy,Communist Party of the Soviet Union,,,,lieutenant general,1945-07-11T00:00:00Z,0.0,,colonel general,major general
+http://www.wikidata.org/entity/Q108540795,Konstantin Zhuravlyov,Communist Party of the Soviet Union,,,,major general,1944-01-01T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q109328472,Maxim Chibisov,Communist Party of the Soviet Union,,,,colonel,1944-06-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q109328472,Maxim Chibisov,Communist Party of the Soviet Union,,,,Air Force major general,1955-08-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q15070531,Nikolay Krisanov,Communist Party of the Soviet Union,,,,major general,1943-01-01T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q4493995,Mikhail Fedorov,Communist Party of the Soviet Union,,,,lieutenant colonel,1942-09-14T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4493995,Mikhail Fedorov,Communist Party of the Soviet Union,,,,captain,1941-02-14T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4493995,Mikhail Fedorov,Communist Party of the Soviet Union,,,,major general,1954-05-31T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q4493995,Mikhail Fedorov,Communist Party of the Soviet Union,,,,major,1941-12-30T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4493995,Mikhail Fedorov,Communist Party of the Soviet Union,,,,colonel,1944-02-22T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4245011,Mikhail Vasilyevich Kuznetsov,Communist Party of the Soviet Union,,,,podpolkovnik,1943-10-15T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4245011,Mikhail Vasilyevich Kuznetsov,Communist Party of the Soviet Union,,,,lieutenant,1936-03-14T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4245011,Mikhail Vasilyevich Kuznetsov,Communist Party of the Soviet Union,,,,colonel,1945-06-04T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4245011,Mikhail Vasilyevich Kuznetsov,Communist Party of the Soviet Union,,,,senior lieutenant,1938-03-20T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4245011,Mikhail Vasilyevich Kuznetsov,Communist Party of the Soviet Union,,,,major,1941-12-25T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4245011,Mikhail Vasilyevich Kuznetsov,Communist Party of the Soviet Union,,,,Air Force major general,1959-05-25T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4245011,Mikhail Vasilyevich Kuznetsov,Communist Party of the Soviet Union,,,,captain,1940-09-11T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4491602,Mikhail Fomichyov,Communist Party of the Soviet Union,,,,lieutenant,1937-11-07T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4491602,Mikhail Fomichyov,Communist Party of the Soviet Union,,,,senior lieutenant,1940-11-05T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4491602,Mikhail Fomichyov,Communist Party of the Soviet Union,,,,major,1942-05-02T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4491602,Mikhail Fomichyov,Communist Party of the Soviet Union,,,,podpolkovnik,1942-09-26T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4491602,Mikhail Fomichyov,Communist Party of the Soviet Union,,,,captain,1941-06-01T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4491602,Mikhail Fomichyov,Communist Party of the Soviet Union,,,,colonel,1944-02-21T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4424154,Zakhar Slyusarenko,Communist Party of the Soviet Union,,,,senior lieutenant,1938-09-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4424154,Zakhar Slyusarenko,Communist Party of the Soviet Union,,,,podpolkovnik,1942-08-04T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4424154,Zakhar Slyusarenko,Communist Party of the Soviet Union,,,,colonel,1943-12-15T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4424154,Zakhar Slyusarenko,Communist Party of the Soviet Union,,,,major,1941-01-01T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4424154,Zakhar Slyusarenko,Communist Party of the Soviet Union,,,,captain,1938-12-11T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4402425,Yekaterina Ryabova,Communist Party of the Soviet Union,,,,senior lieutenant,1943-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4256472,Semion Levin,Communist Party of the Soviet Union,,,,podpolkovnik,1942-06-01T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4256472,Semion Levin,Communist Party of the Soviet Union,,,,major,1940-01-01T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4256472,Semion Levin,Communist Party of the Soviet Union,,,,captain,1936-03-01T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4256472,Semion Levin,Communist Party of the Soviet Union,,,,colonel,1943-01-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4258850,Viktor Leonov,Communist Party of the Soviet Union,,,,captain 2nd rank,1952-01-01T00:00:00Z,0.0,,captain 1st rank,Captain 3rd rank
+http://www.wikidata.org/entity/Q17046045,Robert Brichenok,Communist Party of the Soviet Union,,,,lieutenant general,1945-04-20T00:00:00Z,1.0,,colonel general,major general
+http://www.wikidata.org/entity/Q4152605,Iosif Gusakovsky,Communist Party of the Soviet Union,,,,colonel,1944-02-21T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4152605,Iosif Gusakovsky,Communist Party of the Soviet Union,,,,major,1942-01-01T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q4152605,Iosif Gusakovsky,Communist Party of the Soviet Union,,,,captain,1941-01-01T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4152605,Iosif Gusakovsky,Communist Party of the Soviet Union,,,,senior lieutenant,1941-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4152605,Iosif Gusakovsky,Communist Party of the Soviet Union,,,,podpolkovnik,1942-11-04T00:00:00Z,0.0,,colonel,major
+http://www.wikidata.org/entity/Q4152605,Iosif Gusakovsky,Communist Party of the Soviet Union,,,,colonel general,1960-05-07T00:00:00Z,0.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q4152605,Iosif Gusakovsky,Communist Party of the Soviet Union,,,,lieutenant,1936-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q29865117,Vladimir Ivanov,Communist Party of the Soviet Union,,,,vice admiral,1956-11-26T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q29865117,Vladimir Ivanov,Communist Party of the Soviet Union,,,,counter admiral,1949-05-11T00:00:00Z,0.0,,vice admiral,
+http://www.wikidata.org/entity/Q4267909,Sergey Lugansky,Communist Party of the Soviet Union,,,,Air Force major general,1957-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q21643478,"Nikolaev, Andrey Semyonovich",Communist Party of the Soviet Union,,,,corps commissar,1939-02-09T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4464235,Kuz'ma Trubnikov,Communist Party of the Soviet Union,,,,colonel general,1945-01-01T00:00:00Z,1.0,,General of the Army,lieutenant general
+http://www.wikidata.org/entity/Q4416810,Volodymyr Sergeev,Communist Party of the Soviet Union,,,,captain,1944-03-07T00:00:00Z,0.0,,major,senior lieutenant
+http://www.wikidata.org/entity/Q4309642,Vasily Ilyich Mykhlik,Communist Party of the Soviet Union,,,,colonel,1953-01-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
+http://www.wikidata.org/entity/Q4500590,Semyon Khokhryakov,Communist Party of the Soviet Union,,,,major,1942-01-01T00:00:00Z,0.0,,lieutenant colonel,captain
+http://www.wikidata.org/entity/Q21663999,Nikolay Dedayev,Communist Party of the Soviet Union,,,,major general,1940-06-04T00:00:00Z,0.0,,lieutenant general,brigadier general
+http://www.wikidata.org/entity/Q4369472,Pyotr Pokryshev,Communist Party of the Soviet Union,,,,Air Force major general,1955-01-01T00:00:00Z,0.0,,,
+http://www.wikidata.org/entity/Q4424568,Aleksey Semyonovich Smirnov,Communist Party of the Soviet Union,,,,colonel,1952-01-01T00:00:00Z,0.0,,brigadier,lieutenant colonel
