@@ -1,4 +1,1 @@
-#history
-
-[Wilson Center Digital Archive Package](https://digitalarchive.readthedocs.io/en/latest/  "Digital Archive")
-
+In recent years, declassified documents from Communist bloc countries have produced substantial textual archives about the Cold War. Big data methods are useful to glean patterns from these archives, which can then be used to support or question existing historical narratives about key events. In this paper, we study a corpus of telegrams made available by the Wilson Center Digital Archive, which were sent among Communist allies in the lead up, during and the aftermath of the Korean War. We focus on a time-based analysis, analysing cross-sections of the data by time periods and noting the shifts in sentiment and word associations. These shifts shed light on some unresolved questions about the Korean War: how did attitudes and relationships between the three Communist players of China, Korea and the Soviet Union change as the Korean War progressed?
